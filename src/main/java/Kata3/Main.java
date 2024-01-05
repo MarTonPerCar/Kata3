@@ -1,7 +1,6 @@
 package Kata3;
 
 import swing.Histogram;
-import swing.HistogramDisplay;
 import swing.MainFrame;
 
 import java.io.File;
@@ -23,6 +22,5 @@ public class Main {
         MainFrame frame = new MainFrame();
         frame.histogramDisplay().show(histogram);
         frame.setVisible(true);
-
     }
 }

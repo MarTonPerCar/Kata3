@@ -4,19 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3da21641-1c33-41b8-be3b-974fea74446b" name="Changes" comment="First Commit, use of Kata2">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Kata2/CsvFileSalesLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Kata3/CsvFileSalesLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Kata2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Kata3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Kata2/Sales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Kata3/Sales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Kata2/SalesLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Kata3/SalesLoader.java" afterDir="false" />
+    <list default="true" id="3da21641-1c33-41b8-be3b-974fea74446b" name="Changes" comment="Finish class">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Kata3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Kata3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,7 +28,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2aXVp7X4ujfobSHgkgPpt3r45o3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -70,7 +75,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704465207578</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Class Created">
+      <option name="closed" value="true" />
+      <created>1704486537679</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704486537679</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finish class">
+      <option name="closed" value="true" />
+      <created>1704487474604</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704487474604</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +107,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit, use of Kata2" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit, use of Kata2" />
+    <MESSAGE value="Class Created" />
+    <MESSAGE value="Finish class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish class" />
   </component>
 </project>
