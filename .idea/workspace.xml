@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3da21641-1c33-41b8-be3b-974fea74446b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="3da21641-1c33-41b8-be3b-974fea74446b" name="Changes" comment="First Commit, use of Kata2">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Kata2/CsvFileSalesLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Kata3/CsvFileSalesLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Kata2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Kata3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Kata2/Sales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Kata3/Sales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Kata2/SalesLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Kata3/SalesLoader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2aXVp7X4ujfobSHgkgPpt3r45o3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,12 +32,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Mario/IdeaProjects/Kata3",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mario\IdeaProjects\Kata3\src\main\java" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -48,6 +62,30 @@
       <option name="presentableId" value="Default" />
       <updated>1704465093932</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit, use of Kata2">
+      <option name="closed" value="true" />
+      <created>1704465207578</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704465207578</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit, use of Kata2" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit, use of Kata2" />
   </component>
 </project>

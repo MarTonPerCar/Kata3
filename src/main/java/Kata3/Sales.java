@@ -1,4 +1,4 @@
-package Kata2;
+package Kata3;
 
 public class Sales {
     private String Region;

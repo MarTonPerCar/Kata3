@@ -1,4 +1,4 @@
-package Kata2;
+package Kata3;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -25,9 +25,8 @@ public class CsvFileSalesLoader implements SalesLoader{
 
     private List<Sales> load(FileReader fileR) throws IOException {
         BufferedReader reader = new BufferedReader(fileR);
-        reader.skip(1);
         List<Sales> sales = new ArrayList<>();
-        String linea;
+        String linea = reader.readLine();
         while ((linea = reader.readLine()) != null) {
             sales.add(toSales(linea));
         }
